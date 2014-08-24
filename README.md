@@ -7,7 +7,7 @@
 
 #####Source data: Human Activity Recognition database built from the recordings of 30 subjects performing activities of daily living (ADL) while carrying a waist-mounted smartphone with embedded inertial sensors.    More info: http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones
 
-#####Warning! Please use the read.table() function to read in the resulting dataset, with arguments '*rownames=FALSE*' and '*check.names=FALSE*' !
+#####Warning! Please use the read.table() function to read in the resulting dataset, with arguments '*header=TRUE*' and '*check.names=FALSE*' !
 
 ####Steps in creating the tidy dataset:
 
